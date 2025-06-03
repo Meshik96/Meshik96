@@ -1,5 +1,9 @@
-## Hi there 👋
+### 🧠 About Me
 
+📍 Computer Engineering student @ UNAJ  
+🖥️ I enjoy backend development, mostly in C#  
+
+## Meshik~~
 <!--
 **Meshik96/Meshik96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
